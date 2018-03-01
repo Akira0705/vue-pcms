@@ -18,3 +18,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+## 预览地址
+http://47.94.106.10:6325/#/login
